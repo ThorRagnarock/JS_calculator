@@ -1,2 +1,3 @@
 # JS_calculator
-pure js calculator
+
+Pure Vanilla VS calculator, featuring fancy CSS effects and complex calculations just like a regular handheld calculator
